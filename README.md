@@ -7,7 +7,7 @@
 
   <img src="img/gatito4.png" alt="Imagendegato" width="80"/>
   <p>❀⊱┄┄┄┄ <strong> About Me </strong> ┄┄┄┄⊰❀ </p>
-  <p>I am a second-semester student pursuing a degree in Computer Systems Engineering. My passion lies in becoming a versatile full-stack developer, working on both desktop and web applications, as well as diving into the exciting worlds of video game development and mobile apps.</p>
+  <p>I am a second-semester student pursuing a degree in Computer Systems Engineering, with a background as a graduated mechanical engineer. My passion lies in becoming a versatile full-stack developer, working on both desktop and web applications, as well as diving into the exciting worlds of video game development and mobile apps.</p>
 
   <img src="img/gatito2.png" alt="Imagendegato" width="80"/>
   <p>❀⊱┄┄┄┄ <strong> Tech Stack </strong> ┄┄┄┄⊰❀ </p>
