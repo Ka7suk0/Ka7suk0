@@ -8,7 +8,7 @@
   <br><br><br>
   <img src="img/gatito4.png" alt="Imagendegato" width="80"/>
   <p>❀⊱┄┄┄┄ <strong> About Me </strong> ┄┄┄┄⊰❀ </p>
-  <p>I am a fifth-semester student pursuing a degree in Computer Systems Engineering, with a background as a graduated mechanical engineer. My passion lies in becoming a versatile full-stack developer, working on both desktop and web applications, as well as diving into the exciting worlds of video game development and mobile apps.</p>
+  <p>I am a fifth-semester student pursuing a degree in Computer Systems Engineering, with a background as a graduated mechanical engineer. My passion lies in becoming a versatile full-stack developer, working on multiplatform applications, as well as diving into the exciting worlds of video game development and websites.</p>
 
   <br><br><br>
   <img src="img/gatito2.png" alt="Imagendegato" width="80"/>
@@ -21,8 +21,12 @@
   <p>Oracle DBMS • SQLite • Firebase</p>
   <br>
   <p>»~~ • <strong>Cloud Services and Other Tools</strong> • ~~«</p>
-  <p>Google Cloud • Firebase</p>
-
+  <p>Google Cloud • Linux • Cisco Packet Tracer</p>
+  <br>
+  <p align="center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka7suk0&theme=rose&layout=compact&card_width=460" />
+  </p>
+  
   <br><br><br>
   <img src="img/gatito5.png" alt="Imagendegato" width="80"/>
   <p>❀⊱┄┄┄┄ <strong> Hobbies & Interests </strong> ┄┄┄┄⊰❀ </p>
