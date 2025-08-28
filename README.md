@@ -13,9 +13,11 @@
   <br><br><br>
   <img src="img/gatito2.png" alt="Imagendegato" width="80"/>
   <p>❀⊱┄┄┄┄ <strong> Tech Stack </strong> ┄┄┄┄⊰❀ </p>
+  <br>
   <p>»~~ • <strong>Languages and Frameworks </strong> • ~~«</p>
-  <p>Kotlin • Kotlin Compose Multiplatform • Java • Python</p>
-  <p>Visual Basic for Applications (MSExcel) • HTML • CSS • JavaScript</p>
+  <p>Kotlin • Jetpack Compose Multiplatform • Java • Python</p>
+  <p>Power Automate • Power Apps • Power BI • Visual Basic for Applications (MSExcel)</p>
+  <p>HTML • CSS • JavaScript</p>
   <br>
   <p>»~~ • <strong>Databases</strong> • ~~«</p>
   <p>Oracle DBMS • SQLite • Firebase</p>
@@ -39,6 +41,7 @@
   <p><a href="www.linkedin.com/in/karlaberumen">Karla Berumen</a></p>
   <p>» • <strong>E-mail</strong> • «</p>
   <p><a href="mailto:karla.berumen@protonmail.com">karla.berumen@protonmail.com</a></p>
+  <br><br>
   <p>•</p>
   <p>❀</p>
   <p>•</p>
